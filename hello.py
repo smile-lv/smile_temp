@@ -1,5 +1,5 @@
 def main():
-    print("hello,python")
+    print("hello,python!update version！")
 
 
 if __name__ == "__main__":
